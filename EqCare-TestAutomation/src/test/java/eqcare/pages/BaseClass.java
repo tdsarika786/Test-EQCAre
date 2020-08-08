@@ -24,7 +24,7 @@ public class BaseClass {
 			DataProviderFactory.getConfig().getValue("ponyEnv"));
 
 		
-		System.out.println("Log:INFO- Browser and application is ready bghbgh");
+		System.out.println("Log:INFO- Browser and application is ready");
 	}
 	
 	@AfterClass
